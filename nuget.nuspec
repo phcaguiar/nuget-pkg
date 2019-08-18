@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Example.Dotnet.Core.App</id>
+    <version>1.0.0</version>
+    <title>Example Dotnet Core App</title>
+    <authors>Pedro Aguiar</authors>
+    <owners>Pedro Aguiar</owners>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Example Dotnet Core App</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+  </metadata>
+</package>
